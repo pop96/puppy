@@ -33,3 +33,7 @@ func V101() {
 func V102() {
 	fmt.Println("This is from v1.0.2")
 }
+
+func V103() {
+	fmt.Println("This is from v1.0.3")
+}
